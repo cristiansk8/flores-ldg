@@ -25,6 +25,9 @@ function bst_enqueues() {
 	wp_register_style('styles-css', get_template_directory_uri() . '/css/styles.css', false, null);
 	wp_enqueue_style('styles-css');
 
+	wp_register_style('blog-css', get_template_directory_uri() . '/css/blog.css', false, null);
+	wp_enqueue_style('blog-css');
+
 	/* Scripts */
 
 	wp_enqueue_script( 'jquery' );

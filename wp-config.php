@@ -37,6 +37,7 @@ define( 'DB_CHARSET', 'utf8mb4' );
 /** The Database Collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
@@ -65,6 +66,7 @@ define( 'NONCE_SALT',       'w^-qzM0@l |r{R&k-c&=,J$<,h]l@_%Gn<-[-|,X:+Ig`_h@bJF
  */
 $table_prefix = 'wp_';
 
+define ('WPLANG', 'es_ES');
 /**
  * For developers: WordPress debugging mode.
  *

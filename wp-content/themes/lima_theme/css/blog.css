@@ -1,0 +1,10 @@
+.banner-blog{
+  background-color: #cc5b2a;
+  text-transform: uppercase;
+  padding: 1.875em 0;
+}
+.blog-title h2{
+  color: #fff;
+  font-family: "Open Sans Bold";
+  font-weight: 700;
+}
