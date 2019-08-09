@@ -1,0 +1,4 @@
+[06-Aug-2019 10:13:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home2/depuracr/public_html/flores-prueba/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/depuracr/public_html/flores-prueba/wp-content/themes/twentyseventeen/functions.php on line 16
